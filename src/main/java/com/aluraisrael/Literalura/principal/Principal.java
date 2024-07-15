@@ -1,9 +1,9 @@
 package com.aluraisrael.Literalura.principal;
-import com.aluraisrael.literalura.modelo.*;
-import com.aluraisrael.literalura.repository.AutorRepository;
-import com.aluraisrael.literalura.repository.LibroRepository;
-import com.aluraisrael.literalura.service.ConsumoAPI;
-import com.aluraisrael.literalura.service.ConvierteDatosJson;
+import com.aluraisrael.Literalura.modelo.*;
+import com.aluraisrael.Literalura.repository.AutorRepository;
+import com.aluraisrael.Literalura.repository.LibroRepository;
+import com.aluraisrael.Literalura.service.ConsumoAPI;
+import com.aluraisrael.Literalura.service.ConvierteDatosJson;
 
 import java.util.*;
 

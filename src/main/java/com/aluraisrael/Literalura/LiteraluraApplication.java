@@ -1,8 +1,8 @@
 package com.aluraisrael.Literalura;
 
-import com.aluraisrael.literalura.principal.Principal;
-import com.aluraisrael.literalura.repository.AutorRepository;
-import com.aluraisrael.literalura.repository.LibroRepository;
+import com.aluraisrael.Literalura.principal.Principal;
+import com.aluraisrael.Literalura.repository.AutorRepository;
+import com.aluraisrael.Literalura.repository.LibroRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
